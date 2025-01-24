@@ -17,8 +17,7 @@
 
 ### Links
 
-- Repository URL: [Repo URL](https://github.com/ilham-bouk/Quiz_App)
-- Live Site URL: [Live Site](https://ilham-bouk.github.io/Quiz_App/)
+- Live Site URL: [Live Site](https://ilham-bouk.github.io/Guss_The_Word_Game/)
 
 ## My process
 
