@@ -7,7 +7,6 @@ let wordToGuess = "";
 const words = ["Create", "Update", "Delete", "Master", "Branch", "Mainly", "Elzero", "School"];
 wordToGuess = words[Math.floor(Math.random() * words.length)].toLowerCase();
 let messageArea = document.querySelector(".message");
-console.log(wordToGuess);
 
 
 document.querySelector(".hint span").innerHTML = numbersOfHints;
