@@ -29,6 +29,13 @@
 - Disktop-first workflow
 
 
+## Planned Features
+
+Here are some features we’re planning to add in future updates:
+- **Responsive Design**: Optimize the app for mobile and tablet devices.
+- **Performance Improvements**: Reduce load times and optimize resource usage.
+- **Add start page**: and make the user choose the level and the category.
+
 ### Useful resources
 
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/)
